@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://URL/">
+    <a href="https://devchallenges-todo-app.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/SOLUTION_URL">
+    <a href="https://devchallenges.io/solutions/uQ3jTHoGGSEeY4o3lGl1">
       Solution
     </a>
     <span> | </span>
