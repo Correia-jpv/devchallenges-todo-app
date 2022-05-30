@@ -15,7 +15,7 @@ const themeReducer = (state, action) => {
 }
 
 export function ThemeWorker(props) {
-  const prefersDarkMode = React.useState(useMediaQuery('(prefers-color-scheme: dark)')) && false
+  const prefersDarkMode = React.useState(useMediaQuery('(prefers-color-scheme: dark)'))
 
   const initialState = {
     darkMode: prefersDarkMode,
